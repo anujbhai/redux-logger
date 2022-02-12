@@ -1,0 +1,47 @@
+{
+  "logs": [
+    {
+      "id": 2,
+      "message": "Disable Security System",
+      "attention": false,
+      "tech": "Montana Bullock",
+      "date": "2022-02-12T15:04:29.391Z"
+    },
+    {
+      "message": "Override network security systems",
+      "tech": "Sara Wilson",
+      "attention": true,
+      "date": "2022-02-12T11:45:26.854Z",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "message": "Deny all accesses to main server",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2022-02-12T15:04:35.306Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "Montana",
+      "lastName": "Bullock",
+      "id": 4
+    }
+  ]
+}
