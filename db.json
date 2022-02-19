@@ -39,9 +39,14 @@
       "lastName": "Wilson"
     },
     {
-      "firstName": "Montana",
-      "lastName": "Bullock",
-      "id": 4
+      "firstName": "Doc",
+      "lastName": "Holliday",
+      "id": 5
+    },
+    {
+      "firstName": "Jesse",
+      "lastName": "James",
+      "id": 6
     }
   ]
 }
